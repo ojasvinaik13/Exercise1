@@ -1,1 +1,1 @@
-# tasks
+Program to find magic squares.
